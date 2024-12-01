@@ -42,3 +42,5 @@ arrayLeft.forEach(num => {
 });
 
 console.log(totalSimilarityScore);
+
+test123
